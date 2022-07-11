@@ -64,8 +64,8 @@ int main()
 	// initializing connection details with my login information 
 	struct connection_details login;
 	login.server = "courses";
-	login.user = "z1911688";
-	login.password = "1998Dec20";
+	login.user = "HIDDEN";
+	login.password = "HIDDEN";
 	login.database = "henrybooks";
 	// I establish two connections to the server because later I will be running a select statement while 
 	// another select statement is running
